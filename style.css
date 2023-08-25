@@ -80,8 +80,40 @@ img {
   margin-bottom: 85px;
 }
 
-.button {
+.container-botao {
   display: flex;
   justify-content: center;
   gap: 30px;
+  padding-bottom: 180px;
+}
+
+.botao-1 {
+  display: inline-block;
+  color: #fff;
+  background-color: #f89d24;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 20px 50px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.botao-1:hover {
+  background-color: #f88d24;
+}
+
+.botao-2 {
+  display: inline-block;
+  color: #fff;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-size: 16px;
+  padding: 20px 50px;
+  border-radius: 5px;
+  border: 1px solid #fff;
+  cursor: pointer;
+}
+
+.botao-2:hover {
+  background-color: rgba(0, 0, 0, 0.5);
 }
