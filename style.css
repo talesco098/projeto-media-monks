@@ -117,3 +117,9 @@ img {
 .botao-2:hover {
   background-color: rgba(0, 0, 0, 0.5);
 }
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 360px) {
+}
