@@ -125,6 +125,9 @@ img {
   .header img {
     margin-bottom: 100px;
   }
+  .container-botao {
+    padding-bottom: 125px;
+  }
 }
 
 @media (max-width: 620px) {
@@ -145,5 +148,8 @@ img {
   }
   .header img {
     margin-bottom: 20px;
+  }
+  .container-botao {
+    padding-bottom: 35px;
   }
 }
