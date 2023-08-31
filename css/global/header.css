@@ -1,0 +1,21 @@
+.header-bg {
+  background: var(
+    --gradiente-background-componente,
+    linear-gradient(90deg, #1a1a1a 0%, #2c2c2c 100%)
+  );
+}
+
+.header {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 1126px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header img {
+  margin-top: 25px;
+  margin-bottom: 125px;
+}
