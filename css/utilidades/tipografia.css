@@ -1,0 +1,45 @@
+.font-titulo-h1 {
+  font-family: "Yantramanav", sans-serif;
+  font-size: 4rem;
+  font-weight: 400;
+}
+.font-titulo-h2 {
+  font-family: "Yantramanav";
+  font-size: 3rem;
+  font-weight: 400;
+}
+.font-titulo-h3 {
+  font-family: "Yantramanav";
+  font-size: 2rem;
+  font-weight: 400;
+}
+.font-titulo-h4 {
+  font-family: "Yantramanav";
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+.font-subtitulo-1 {
+  font-family: "Yantramanav";
+  font-size: 2rem;
+  font-weight: 700;
+}
+.font-subtitulo-2 {
+  font-family: "Yantramanav";
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.font-subtitulo-3 {
+  font-family: "Yantramanav";
+  font-size: 1rem;
+  font-weight: 700;
+}
+.font-body-1 {
+  font-family: "Yantramanav";
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.font-body-2 {
+  font-family: "Yantramanav";
+  font-size: 1rem;
+  font-weight: 700;
+}
