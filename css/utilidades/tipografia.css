@@ -1,7 +1,5 @@
 .font-titulo-h1 {
-  font-family: "Yantramanav", sans-serif;
-  font-size: 4rem;
-  font-weight: 400;
+  font: 400 4rem "Yantramanav", sans-serif;
 }
 .font-titulo-h2 {
   font-family: "Yantramanav";
